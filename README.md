@@ -16,8 +16,8 @@ It is designed to showcase clean design, semantic markup, and basic web developm
 - CSS3 (no frameworks)
 
 ## 📂 Project Files
-- `index.html` — Main HTML structure
-- `style.css` — Custom CSS styling
+- `mycard.html` — Main HTML structure
+- `mycard.css` — Custom CSS styling
 
 ## 🌐 Live Demo
 👉 [View Live Project](https://mayankmudgal2005.github.io/Bussiness_Card/)  
