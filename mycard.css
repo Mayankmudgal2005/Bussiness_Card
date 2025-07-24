@@ -1,0 +1,28 @@
+.maindiv{
+    /* background: rgb(227, 247, 255);
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+    padding: 10px;
+    gap: 150px;     */
+    width: 400px;
+    padding: 20px;
+    background: #ddebf8 ;
+    border: 3px dotted rgb(247, 227, 255);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 6px solid #d8cefe;
+    margin-left: auto;
+    margin-top: 40px;             
+    margin-right: auto;
+}
+.data{
+    text-align: center;
+    color: #2b2839;
+    font-family: 'Roboto' , sans-serif;
+}
+#image{
+    margin-left: 20px;
+    width: 150px;
+}
