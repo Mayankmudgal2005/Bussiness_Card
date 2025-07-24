@@ -20,8 +20,8 @@ It is designed to showcase clean design, semantic markup, and basic web developm
 - `style.css` — Custom CSS styling
 
 ## 🌐 Live Demo
-👉 [View Live Project](https://mayankmudgal2005.github.io/your-repo-name/)  
-*(Replace `your-repo-name` with your actual GitHub repository name once created)*
+👉 [View Live Project](https://mayankmudgal2005.github.io/Bussiness_Card/)  
+
 
 ## 👤 Author
 **Mayank Mudgal**  
